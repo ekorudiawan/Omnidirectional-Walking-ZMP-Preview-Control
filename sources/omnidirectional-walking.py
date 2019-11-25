@@ -26,10 +26,12 @@ class GaitController():
 
         self.cnt = 1
 
-        # motion vector
+        # here command for walking 
+        # defined as motion vector
         self.cmd_x = 0.05
         self.cmd_y = 0.00
         self.cmd_a = np.radians(10)
+
         self.sx = 0.0
         self.sy = 0.0
         self.sa = 0.0
@@ -445,7 +447,7 @@ class GaitController():
         self.initialize()
         print("Start Stepping")
         print("LIPM :", self.zc)
-        t_sim = 20
+        t_sim = 4
         t = 0
         list_com_x = []
         list_com_y = []
