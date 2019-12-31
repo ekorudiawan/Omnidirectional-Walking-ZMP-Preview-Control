@@ -1,4 +1,4 @@
-# Omnidirectional Walking Pattern Generator for Humanoid Robot
+# Omnidirectional Walking Pattern Generation for Humanoid Robot using ZMP Preview Control
 
 By: Eko Rudiawan 
 
@@ -19,3 +19,6 @@ This is an implementation of omnidirectional walking pattern generator of humano
 3. cmd_x = 0.05, cmd_y = 0.00, and cmd_a = 10 degrees
 
     ![alt text](./images/Figure_3.png)
+    
+**Reference**
+[1] Kajita, Shuuji, et al. "Biped walking pattern generation by using preview control of zero-moment point." 2003 IEEE International Conference on Robotics and Automation (Cat. No. 03CH37422). Vol. 2. IEEE, 2003.
