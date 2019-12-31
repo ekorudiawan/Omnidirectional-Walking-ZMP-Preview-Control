@@ -21,4 +21,5 @@ This is an implementation of omnidirectional walking pattern generator of humano
     ![alt text](./images/Figure_3.png)
     
 **Reference**
+
 [1] Kajita, Shuuji, et al. "Biped walking pattern generation by using preview control of zero-moment point." 2003 IEEE International Conference on Robotics and Automation (Cat. No. 03CH37422). Vol. 2. IEEE, 2003.
